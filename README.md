@@ -3,7 +3,6 @@
 </title>
 
 <style>
-
 body {
 
 background-repeat: no-repeat;
